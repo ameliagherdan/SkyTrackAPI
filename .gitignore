@@ -8,6 +8,8 @@
 .idea/
 .idea.*
 
+*.DotSettings.user
+
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
