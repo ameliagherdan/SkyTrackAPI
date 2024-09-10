@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyTrackAPI", "SkyTrackAPI\SkyTrackAPI.csproj", "{9B47A904-49C6-4F04-8C39-81EE626B147E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyTrackAPI.Tests", "SkyTrackAPI.Tests\SkyTrackAPI.Tests.csproj", "{4591EE48-AC2F-4415-86C5-B03898CB8644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B47A904-49C6-4F04-8C39-81EE626B147E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B47A904-49C6-4F04-8C39-81EE626B147E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B47A904-49C6-4F04-8C39-81EE626B147E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B47A904-49C6-4F04-8C39-81EE626B147E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4591EE48-AC2F-4415-86C5-B03898CB8644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4591EE48-AC2F-4415-86C5-B03898CB8644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4591EE48-AC2F-4415-86C5-B03898CB8644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4591EE48-AC2F-4415-86C5-B03898CB8644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
