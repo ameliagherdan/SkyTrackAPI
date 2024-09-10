@@ -4,7 +4,9 @@
 *.userprefs
 *.csproj.user
 *.dll
+
 .idea/
+.idea.*
 
 [Dd]ebug/
 [Dd]ebugPublic/
